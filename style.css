@@ -1,0 +1,59 @@
+body{
+    font-family: "Mulish", sans-serif;
+    line-height: 1.7;
+    color: gray;
+    /* font-weight: 300; */
+    /* font-size: 1.1rem; */
+  
+}
+
+
+
+.heading{
+  margin-top: 3.7rem;
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 1.8rem;
+    font-weight: 900;
+   
+}
+
+.text{
+color: gray;
+margin-bottom: 3rem;
+font-size: 16px;
+}
+
+
+.teach-box{
+border: 1px solid  #e9ecef; 
+box-shadow: 3px 4px 5px  #c0c3c7 ;
+padding: 30px;
+ margin-top: 5.5rem;
+
+}
+img{
+    width: 50%;
+    border-radius: 50%;
+    margin-top: -100px;
+   
+}
+
+.name{
+    font-weight: 500;
+    line-height: 1.2;
+    color: black;
+
+}
+
+.career{
+    color: #adb5bd;
+    
+}
+
+.teach-desc{
+
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #e9ecef;
+}
